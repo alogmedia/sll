@@ -2,7 +2,7 @@
 <img height="100px" src="./public/movies.webp" />
 </p>
 
-<h1 align="center"SLL Clan</h1>
+<h1 align="center">SLL Clan</h1>
 <br>
 
 
